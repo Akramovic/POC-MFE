@@ -116,19 +116,6 @@
       "discounts": "Promotion: -10%",
       "total_price_wo_tax": "900.00 €",
       "total_price_w_tax": "855.00 €"
-    },
-    {
-      "id": "A1098765432",
-      "status": "New",
-      "customer": "Ivy Adams",
-      "organisation": "Solar Systems",
-      "last_update": "25 Sep 2024",
-      "updated_by": "Sarah",
-      "products_count": 9,
-      "margin": "15.00%",
-      "discounts": "Contract: -5%",
-      "total_price_wo_tax": "450.00 €",
-      "total_price_w_tax": "427.50 €"
     }
   ],
   "customers": [
@@ -210,26 +197,6 @@
       "organisation": "Ecole Saint-Louis",
       "city": "Toulouse",
       "job_position": "School Director",
-      "role": "Lead Buyer"
-    },
-    {
-      "id": 99876551,
-      "customer": "Antoine Rousseau",
-      "email": "a.rousseau@lycee-moliere.fr",
-      "phone": "+33 01 25 34 56 78",
-      "organisation": "Lycée Molière",
-      "city": "Marseille",
-      "job_position": "Head Teacher",
-      "role": "Buyer"
-    },
-    {
-      "id": 109876552,
-      "customer": "Claire Petit",
-      "email": "c.petit@college-montaigne.fr",
-      "phone": "+33 01 36 47 58 69",
-      "organisation": "Collège Montaigne",
-      "city": "Nice",
-      "job_position": "Principal",
       "role": "Lead Buyer"
     }
   ],
