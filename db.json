@@ -341,18 +341,6 @@
       "product_count": 18,
       "special_product_count": 2,
       "service_count": 3
-    },
-    {
-      "organisation_name": "Solar Systems",
-      "customer_name": "Ivy Adams",
-      "order_id": "A1098765432",
-      "creation_date": "25 Sep 2024",
-      "price_before_tax": "450.00 €",
-      "price_after_tax": "427.50 €",
-      "status": "New",
-      "product_count": 9,
-      "special_product_count": 1,
-      "service_count": 1
     }
   ]
 }
